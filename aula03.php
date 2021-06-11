@@ -1,8 +1,9 @@
 <?php
 
 //transformador, tu coloca os valores e ele transforma em outros
-$valor = 10;
-$valor += 5;
+
+//$valor = 10;
+//$valor += 5;
 //echo $valor;
 
 //$nome = "francesca";
@@ -14,8 +15,8 @@ $valor += 5;
 // != valores são diferentes?
 // !== dados diferentes e valores diferentes
 
-$valor1 = 10;
-$valor2 = 10;
+//$valor1 = 10;
+//$valor2 = 10;
 
 //var_dump($valor1 !== $valor2);
 
@@ -37,8 +38,8 @@ echo $v1. '-' .$v2;
 // || significa "ou", uma delas é verdadeira?
 // ! inverte a variavel que ta nos parenteses (true vira false, false vira true).
 
-$v1 = true;
-$v2 = false;
+//$v1 = true;
+//$v2 = false;
 //var_dump(!($v1));
 
 $nome = "francesca";
